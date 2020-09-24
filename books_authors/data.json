@@ -1,0 +1,29 @@
+{
+    "notes": [
+        {
+            "author_name": "George Martin",
+            "note": "Could be better",
+            "rating": 5
+        },
+        {
+            "author_name": "Brandon Sanderson",
+            "note": "Not bad. Great narrative and characters",
+            "rating": 10
+        },
+        {
+            "author_name": "Frank Herbert",
+            "note": "Phenomenal author, deep thoughts, superb fabula",
+            "rating": 8
+        },
+        {
+            "author_name": "Jasper Fforde",
+            "note": "The funniest thing I've ever read",
+            "rating": 10
+        },
+        {
+            "author_name": "Terry Pratchett",
+            "note": "This should go to all of priests ears",
+            "rating": 8
+        }
+    ]
+}
